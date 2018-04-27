@@ -1,1 +1,1 @@
-# HP ENVY-13-AB026TU Latop Clover EFI
+# HP ENVY-13-AB026TU Laptop Clover EFI
