@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.2.7</string>
+	<string>1.2.6</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,7 +25,7 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.2.7</string>
+	<string>1.2.6</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -3248,9 +3248,13 @@
 					<integer>283902613</integer>
 					<key>ConfigData</key>
 					<data>
-					ASccMAEnHQABJx6gAScfuQFHHFABRx0AAUce
-					FwFHH5ABRwwCAZccQAGXHRABlx6BAZcfAAIX
-					HCACFx0QAhceIQIXHwA=
+					ASccIAEnHQEBJx6mAScfkAFHHEABRx0BAUce
+					FwFHH5ABRwwCAWcc8AFnHQABZx4AAWcfQAF3
+					HPABdx0AAXceAAF3H0ABhxzwAYcdAAGHHgAB
+					hx9AAZccEAGXHRABlx6BAZcfAgGnHPABpx0A
+					AaceAAGnH0ABtxzwAbcdAAG3HgABtx9AAdcc
+					8AHXHQAB1x4AAdcfQAHnHPAB5x0AAeceAAHn
+					H0ACFxwwAhcdEAIXHiECFx8CAhcMAg==
 					</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>

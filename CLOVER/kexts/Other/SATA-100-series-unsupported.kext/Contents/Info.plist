@@ -32,7 +32,6 @@
 			<array>
 				<string>pci8086,a103</string>
 				<string>pci8086,9d03</string>
-				<string>pci1179,0115</string>
 			</array>
 			<key>IOProbeScore</key>
 			<integer>2000</integer>
