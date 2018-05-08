@@ -141,8 +141,6 @@
 			</dict>
 			<key>Fn keys Layout</key>
 			<string>LENOVO</string>
-			<key>Fn keys Mode</key>
-			<integer>0</integer>
 			<key>IOClass</key>
 			<string>ApplePS2Keyboard</string>
 			<key>IOProviderClass</key>
@@ -183,7 +181,7 @@
 				<false/>
 			</dict>
 			<key>ProductID</key>
-			<integer>782</integer>
+			<integer>65535</integer>
 			<key>Use ISO Layout</key>
 			<false/>
 			<key>VendorID</key>
